@@ -1,3 +1,7 @@
+<?php
+
+# IMPLEMENTATION IN LARAVEL CONTROLLER 
+
 DB::beginTransaction();
 
 try {
